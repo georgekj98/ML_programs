@@ -1,2 +1,2 @@
 # ML_programs
-Collection of simple and quick ML questions
+Set of basic Machine Learning programs.
